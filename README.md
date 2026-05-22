@@ -4,3 +4,7 @@ Exemplo em .NET 10 de Console Application que faz uso do Microsoft Agent Framewo
 Exemplo de interação via chat:
 
 ![Chat](img/console-01.png)
+
+Trace do Grafana Tempo:
+
+![Trace](img/trace-01.png)
